@@ -1,0 +1,686 @@
+2014-03-27 12:37:40 [INFO] Starting minecraft server version 1.6.2
+2014-03-27 12:37:40 [INFO] MinecraftForge v
+2014-03-27 12:37:40 [INFO] 9.10.1.871
+2014-03-27 12:37:40 [INFO]  Initialized
+
+2014-03-27 12:37:40 [INFO] Replaced 101 ore recipies
+2014-03-27 12:37:47 [INFO] Loading properties
+2014-03-27 12:37:47 [WARNING] server.properties does not exist
+2014-03-27 12:37:47 [INFO] Generating new properties file
+2014-03-27 12:37:47 [INFO] Default game type: SURVIVAL
+2014-03-27 12:37:48 [INFO] This server is running MCPC+ version git-MCPC-Plus-jenkins-MCPC-Plus-96 (MC: 1.6.2) (Implementing API version 1.6.2-R1.1-SNAPSHOT)
+2014-03-27 12:37:48 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2014-03-27 12:37:48 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2014-03-27 12:37:48 [INFO] Generating keypair
+2014-03-27 12:37:49 [INFO] Starting Minecraft server on *:25565
+2014-03-27 12:37:50 [INFO] Preparing level "world"
+2014-03-27 12:37:50 [INFO] Registered command debug with permission node vanilla.command.debug
+2014-03-27 12:37:50 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2014-03-27 12:37:50 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2014-03-27 12:37:50 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2014-03-27 12:37:50 [INFO] -------- World Settings For [world] --------
+2014-03-27 12:37:50 [INFO] Cactus Growth Modifier: 100%
+2014-03-27 12:37:50 [INFO] Cane Growth Modifier: 100%
+2014-03-27 12:37:50 [INFO] Melon Growth Modifier: 100%
+2014-03-27 12:37:50 [INFO] Mushroom Growth Modifier: 100%
+2014-03-27 12:37:50 [INFO] Pumpkin Growth Modifier: 100%
+2014-03-27 12:37:50 [INFO] Sapling Growth Modifier: 100%
+2014-03-27 12:37:50 [INFO] Wheat Growth Modifier: 100%
+2014-03-27 12:37:50 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-03-27 12:37:50 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-03-27 12:37:50 [INFO] Anti X-Ray: false
+2014-03-27 12:37:50 [INFO] 	Engine Mode: 1
+2014-03-27 12:37:50 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-03-27 12:37:50 [INFO] Mob Spawn Range: 4
+2014-03-27 12:37:50 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-03-27 12:37:50 [INFO] Random Lighting Updates: false
+2014-03-27 12:37:50 [INFO] Item Merge Radius: 2.5
+2014-03-27 12:37:50 [INFO] View Distance: 10
+2014-03-27 12:37:50 [INFO] Chunks to Grow per Tick: 650
+2014-03-27 12:37:50 [INFO] Experience Merge Radius: 3.0
+2014-03-27 12:37:51 [INFO] -------- World Settings For [DIM1] --------
+2014-03-27 12:37:51 [INFO] Cactus Growth Modifier: 100%
+2014-03-27 12:37:51 [INFO] Cane Growth Modifier: 100%
+2014-03-27 12:37:51 [INFO] Melon Growth Modifier: 100%
+2014-03-27 12:37:51 [INFO] Mushroom Growth Modifier: 100%
+2014-03-27 12:37:51 [INFO] Pumpkin Growth Modifier: 100%
+2014-03-27 12:37:51 [INFO] Sapling Growth Modifier: 100%
+2014-03-27 12:37:51 [INFO] Wheat Growth Modifier: 100%
+2014-03-27 12:37:51 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-03-27 12:37:51 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-03-27 12:37:51 [INFO] Anti X-Ray: false
+2014-03-27 12:37:51 [INFO] 	Engine Mode: 1
+2014-03-27 12:37:51 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-03-27 12:37:51 [INFO] Mob Spawn Range: 4
+2014-03-27 12:37:51 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-03-27 12:37:51 [INFO] Random Lighting Updates: false
+2014-03-27 12:37:51 [INFO] Item Merge Radius: 2.5
+2014-03-27 12:37:51 [INFO] View Distance: 10
+2014-03-27 12:37:51 [INFO] Chunks to Grow per Tick: 650
+2014-03-27 12:37:51 [INFO] Experience Merge Radius: 3.0
+2014-03-27 12:37:51 [INFO] -------- World Settings For [DIM-1] --------
+2014-03-27 12:37:51 [INFO] Cactus Growth Modifier: 100%
+2014-03-27 12:37:51 [INFO] Cane Growth Modifier: 100%
+2014-03-27 12:37:51 [INFO] Melon Growth Modifier: 100%
+2014-03-27 12:37:51 [INFO] Mushroom Growth Modifier: 100%
+2014-03-27 12:37:51 [INFO] Pumpkin Growth Modifier: 100%
+2014-03-27 12:37:51 [INFO] Sapling Growth Modifier: 100%
+2014-03-27 12:37:51 [INFO] Wheat Growth Modifier: 100%
+2014-03-27 12:37:51 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-03-27 12:37:51 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-03-27 12:37:51 [INFO] Anti X-Ray: false
+2014-03-27 12:37:51 [INFO] 	Engine Mode: 1
+2014-03-27 12:37:51 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-03-27 12:37:51 [INFO] Mob Spawn Range: 4
+2014-03-27 12:37:51 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-03-27 12:37:51 [INFO] Random Lighting Updates: false
+2014-03-27 12:37:51 [INFO] Item Merge Radius: 2.5
+2014-03-27 12:37:51 [INFO] View Distance: 10
+2014-03-27 12:37:51 [INFO] Chunks to Grow per Tick: 650
+2014-03-27 12:37:51 [INFO] Experience Merge Radius: 3.0
+2014-03-27 12:37:51 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 3064805729691644084)
+2014-03-27 12:37:52 [INFO] Preparing spawn area: 4%
+2014-03-27 12:37:53 [INFO] Preparing spawn area: 7%
+2014-03-27 12:37:54 [INFO] Preparing spawn area: 14%
+2014-03-27 12:37:55 [INFO] Preparing spawn area: 22%
+2014-03-27 12:37:56 [INFO] Preparing spawn area: 34%
+2014-03-27 12:37:57 [INFO] Preparing spawn area: 48%
+2014-03-27 12:37:58 [INFO] Preparing spawn area: 59%
+2014-03-27 12:37:59 [INFO] Preparing spawn area: 66%
+2014-03-27 12:38:00 [INFO] Preparing spawn area: 74%
+2014-03-27 12:38:01 [INFO] Preparing spawn area: 83%
+2014-03-27 12:38:02 [INFO] Preparing spawn area: 93%
+2014-03-27 12:38:03 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 3064805729691644084)
+2014-03-27 12:38:04 [INFO] Preparing spawn area: 21%
+2014-03-27 12:38:05 [INFO] Preparing spawn area: 48%
+2014-03-27 12:38:06 [INFO] Preparing spawn area: 65%
+2014-03-27 12:38:07 [INFO] Preparing spawn area: 87%
+2014-03-27 12:38:08 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 3064805729691644084)
+2014-03-27 12:38:09 [INFO] Preparing spawn area: 5%
+2014-03-27 12:38:10 [INFO] Preparing spawn area: 13%
+2014-03-27 12:38:11 [INFO] Preparing spawn area: 21%
+2014-03-27 12:38:12 [INFO] Preparing spawn area: 29%
+2014-03-27 12:38:13 [INFO] Preparing spawn area: 35%
+2014-03-27 12:38:14 [INFO] Preparing spawn area: 47%
+2014-03-27 12:38:15 [INFO] Preparing spawn area: 56%
+2014-03-27 12:38:16 [INFO] Preparing spawn area: 65%
+2014-03-27 12:38:17 [INFO] Preparing spawn area: 73%
+2014-03-27 12:38:18 [INFO] Preparing spawn area: 83%
+2014-03-27 12:38:19 [INFO] Preparing spawn area: 87%
+2014-03-27 12:38:20 [INFO] Preparing spawn area: 96%
+2014-03-27 12:38:21 [INFO] Done (31.155s)! For help, type "help" or "?"
+2014-03-27 12:38:21 [INFO] Registered command forge with permission node net.minecraftforge.server.command.ForgeCommand
+2014-03-27 12:38:47 [INFO] CONSOLE: Stopping the server..[m
+2014-03-27 12:38:47 [INFO] Stopping server
+2014-03-27 12:38:47 [INFO] Saving players
+2014-03-27 12:38:47 [INFO] Saving worlds
+2014-03-27 12:38:47 [WARNING] DSCT: socket closed
+2014-03-27 12:38:47 [INFO] Saving chunks for level 'world'/Overworld
+2014-03-27 12:38:47 [INFO] Closing listening thread
+2014-03-27 12:38:49 [INFO] Saving chunks for level 'DIM-1'/Nether
+2014-03-27 12:38:52 [INFO] Stopping server
+2014-03-27 12:39:07 [INFO] Starting minecraft server version 1.6.2
+2014-03-27 12:39:07 [INFO] MinecraftForge v
+2014-03-27 12:39:07 [INFO] 9.10.1.871
+2014-03-27 12:39:07 [INFO]  Initialized
+
+2014-03-27 12:39:07 [INFO] Replaced 101 ore recipies
+2014-03-27 12:39:09 [INFO] Loading properties
+2014-03-27 12:39:09 [INFO] Default game type: SURVIVAL
+2014-03-27 12:39:10 [INFO] This server is running MCPC+ version git-MCPC-Plus-jenkins-MCPC-Plus-96 (MC: 1.6.2) (Implementing API version 1.6.2-R1.1-SNAPSHOT)
+2014-03-27 12:39:10 [INFO] Generating keypair
+2014-03-27 12:39:11 [INFO] Starting Minecraft server on *:25565
+2014-03-27 12:39:11 [INFO] MMMLib-Server
+2014-03-27 12:39:11 [INFO] MMMLib-Forge
+2014-03-27 12:39:11 [INFO] MMMLib-getMinecraftFile-Exception.
+2014-03-27 12:39:11 [INFO] MMMLib-getMinecraftFile-Exception.
+2014-03-27 12:39:11 [INFO] MMMLib-getMinecraftFile-file:mcpc-plus-1.6.2-R1.1-forge871-B96.jar
+2014-03-27 12:39:11 [INFO] MMMLib-getMods-Directory:D:\Servers\MC_1.6.2\.\mods
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile:[MMMLib]:D:\Servers\MC_1.6.2\.\mods
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile-get:2.
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile-file:MMMLib-1_6_2-6.zip
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile-files:1
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile:[MMMLib]:D:\Servers\MC_1.6.2\.\mods
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile-get:2.
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile-files:1
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile:[littleMaidMob]:D:\Servers\MC_1.6.2\.\mods
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile-get:2.
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile-file:littleMaidMob-1_6_2-6.zip
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile-files:1
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile:[Stabilizer]:D:\Servers\MC_1.6.2\.\mods
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile-get:2.
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile-files:0
+2014-03-27 12:39:11 [INFO] MMMLib-RegisterEntity ID:3 / littleMaidMob-0 : LittleMaid
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile:[EntityMode]:D:\Servers\MC_1.6.2\.\mods
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile-get:2.
+2014-03-27 12:39:11 [INFO] MMMLib-getModFile-files:0
+2014-03-27 12:39:11 [INFO] MMMLib-loadTexturePacks.
+2014-03-27 12:39:11 [INFO] MMMLib-getTexture[MMMLib:/mob/ModelMulti/].
+2014-03-27 12:39:11 [INFO] MMMLib-addTextureJar-zip.
+2014-03-27 12:39:13 [INFO] MMMLib-getTexture-append-jar-done.
+2014-03-27 12:39:13 [INFO] MMMLib-getTexture[MMMLib:/mob/littleMaid/].
+2014-03-27 12:39:13 [INFO] MMMLib-addTextureJar-zip.
+2014-03-27 12:39:14 [INFO] MMMLib-getTexture-append-jar-done.
+2014-03-27 12:39:14 [INFO] MMMLib-getTexture[MMMLib:/assets/minecraft/textures/entity/ModelMulti/].
+2014-03-27 12:39:14 [INFO] MMMLib-addTextureJar-zip.
+2014-03-27 12:39:15 [INFO] MMMLib-getTexture-append-jar-done.
+2014-03-27 12:39:15 [INFO] MMMLib-getTexture[MMMLib:/assets/minecraft/textures/entity/littleMaid/].
+2014-03-27 12:39:15 [INFO] MMMLib-addTextureJar-zip.
+2014-03-27 12:39:17 [INFO] MMMLib-getTexture-append-jar-done.
+2014-03-27 12:39:17 [INFO] MMMLib-getTexture[littleMaidMob:/mob/littleMaid/].
+2014-03-27 12:39:17 [INFO] MMMLib-addTextureJar-zip.
+2014-03-27 12:39:20 [INFO] MMMLib-getTexture-append-jar-done.
+2014-03-27 12:39:20 [INFO] MMMLib-getTexture[littleMaidMob:/assets/minecraft/textures/entity/littleMaid/].
+2014-03-27 12:39:20 [INFO] MMMLib-addTextureJar-zip.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-jar-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture[MMMLib:/mob/ModelMulti/].
+2014-03-27 12:39:23 [INFO] MMMLib-getModelClass-Stef:MMM_ModelMulti_Stef
+2014-03-27 12:39:23 [INFO] MMMLib-getModelClass-Steve:MMM_ModelMulti_Steve
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getModelClass-AC:MMM_ModelLittleMaid_AC
+2014-03-27 12:39:23 [INFO] MMMLib-getModelClass-Archetype:MMM_ModelLittleMaid_Archetype
+2014-03-27 12:39:23 [INFO] MMMLib-getModelClass-Aug:MMM_ModelLittleMaid_Aug
+2014-03-27 12:39:23 [INFO] MMMLib-getModelClass-Orign:MMM_ModelLittleMaid_Orign
+2014-03-27 12:39:23 [INFO] MMMLib-getModelClass-RX0:MMM_ModelLittleMaid_RX0
+2014-03-27 12:39:23 [INFO] MMMLib-getModelClass-SR2:MMM_ModelLittleMaid_SR2
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTextureName-append-texturePack-ALTERNATIVE
+2014-03-27 12:39:23 [INFO] MMMLib-getTextureName-append-texturePack-default
+2014-03-27 12:39:23 [INFO] MMMLib-getTextureName-append-texturePack-MMM_Aug
+2014-03-27 12:39:23 [INFO] MMMLib-getTextureName-append-texturePack-MMM_SR2
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture[MMMLib:/mob/littleMaid/].
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture[MMMLib:/assets/minecraft/textures/entity/ModelMulti/].
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture[MMMLib:/assets/minecraft/textures/entity/littleMaid/].
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:23 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture[littleMaidMob:/mob/littleMaid/].
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture[littleMaidMob:/assets/minecraft/textures/entity/littleMaid/].
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:39:24 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:39:24 [INFO] MMMLib-Loaded Texture Lists.(6)
+2014-03-27 12:39:24 [INFO] MMMLib-texture: ALTERNATIVE_Orign(ALTERNATIVE) - hasModel:true
+2014-03-27 12:39:24 [INFO] MMMLib-texture: default_Orign(default) - hasModel:true
+2014-03-27 12:39:24 [INFO] MMMLib-texture: MMM_Aug(MMM_Aug) - hasModel:true
+2014-03-27 12:39:24 [INFO] MMMLib-texture: MMM_SR2(MMM_SR2) - hasModel:true
+2014-03-27 12:39:24 [INFO] MMMLib-texture: Crafter_Steve() - hasModel:true
+2014-03-27 12:39:24 [INFO] MMMLib-texture: Crafter_Stef() - hasModel:true
+2014-03-27 12:39:24 [INFO] MMMLib-Rebuild Texture Lists.(6)
+2014-03-27 12:39:24 [INFO] MMMLib-texture: ALTERNATIVE_Orign(ALTERNATIVE) - hasModel:true
+2014-03-27 12:39:24 [INFO] MMMLib-texture: default_Orign(default) - hasModel:true
+2014-03-27 12:39:24 [INFO] MMMLib-texture: MMM_Aug(MMM_Aug) - hasModel:true
+2014-03-27 12:39:24 [INFO] MMMLib-texture: MMM_SR2(MMM_SR2) - hasModel:true
+2014-03-27 12:39:24 [INFO] MMMLib-texture: Crafter_Steve() - hasModel:true
+2014-03-27 12:39:24 [INFO] MMMLib-texture: Crafter_Stef() - hasModel:true
+2014-03-27 12:39:24 [INFO] MMMLib-appendDefaultTexture:EntityLivingBase(default_Orign)
+2014-03-27 12:39:24 [INFO] MMMLib-appendDefaultTexture:LMM_EntityLittleMaid(default_Orign)
+2014-03-27 12:39:27 [INFO] MMMLib-getEntityModeClass-fail: LMM_EntityModeManager
+2014-03-27 12:39:27 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Archer
+2014-03-27 12:39:27 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Basic
+2014-03-27 12:39:27 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_BookDecorder
+2014-03-27 12:39:27 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Cooking
+2014-03-27 12:39:27 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Fencer
+2014-03-27 12:39:27 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Healer
+2014-03-27 12:39:27 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Pharmacist
+2014-03-27 12:39:27 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Playing
+2014-03-27 12:39:27 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Ripper
+2014-03-27 12:39:27 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Test
+2014-03-27 12:39:27 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Torcher
+2014-03-27 12:39:27 [INFO] littleMaidMob-Loaded Mode lists(11)
+2014-03-27 12:39:27 [INFO] littleMaidMob-0900 : LMM_EntityMode_Playing
+2014-03-27 12:39:27 [INFO] littleMaidMob-3000 : LMM_EntityMode_Fencer
+2014-03-27 12:39:27 [INFO] littleMaidMob-3100 : LMM_EntityMode_Ripper
+2014-03-27 12:39:27 [INFO] littleMaidMob-3200 : LMM_EntityMode_Archer
+2014-03-27 12:39:27 [INFO] littleMaidMob-3300 : LMM_EntityMode_Healer
+2014-03-27 12:39:27 [INFO] littleMaidMob-6000 : LMM_EntityMode_Cooking
+2014-03-27 12:39:27 [INFO] littleMaidMob-6100 : LMM_EntityMode_Pharmacist
+2014-03-27 12:39:27 [INFO] littleMaidMob-6200 : LMM_EntityMode_Torcher
+2014-03-27 12:39:27 [INFO] littleMaidMob-8000 : LMM_EntityMode_BookDecorder
+2014-03-27 12:39:27 [INFO] littleMaidMob-9000 : LMM_EntityMode_Basic
+2014-03-27 12:39:27 [INFO] littleMaidMob-9900 : LMM_EntityMode_Test
+2014-03-27 12:39:27 [INFO] littleMaidMob-D:\Servers\MC_1.6.2\.\config\littleMaidMob.iff
+2014-03-27 12:39:28 [INFO] Preparing level "world"
+2014-03-27 12:39:28 [INFO] Registered command debug with permission node vanilla.command.debug
+2014-03-27 12:39:28 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2014-03-27 12:39:28 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2014-03-27 12:39:28 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2014-03-27 12:39:28 [INFO] -------- World Settings For [world] --------
+2014-03-27 12:39:28 [INFO] Chunks to Grow per Tick: 650
+2014-03-27 12:39:28 [INFO] Experience Merge Radius: 3.0
+2014-03-27 12:39:28 [INFO] Item Merge Radius: 2.5
+2014-03-27 12:39:28 [INFO] Anti X-Ray: false
+2014-03-27 12:39:28 [INFO] 	Engine Mode: 1
+2014-03-27 12:39:28 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-03-27 12:39:28 [INFO] Mob Spawn Range: 4
+2014-03-27 12:39:28 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-03-27 12:39:28 [INFO] Random Lighting Updates: false
+2014-03-27 12:39:28 [INFO] View Distance: 10
+2014-03-27 12:39:28 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-03-27 12:39:28 [INFO] Cactus Growth Modifier: 100%
+2014-03-27 12:39:28 [INFO] Cane Growth Modifier: 100%
+2014-03-27 12:39:28 [INFO] Melon Growth Modifier: 100%
+2014-03-27 12:39:28 [INFO] Mushroom Growth Modifier: 100%
+2014-03-27 12:39:28 [INFO] Pumpkin Growth Modifier: 100%
+2014-03-27 12:39:28 [INFO] Sapling Growth Modifier: 100%
+2014-03-27 12:39:28 [INFO] Wheat Growth Modifier: 100%
+2014-03-27 12:39:28 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-03-27 12:39:29 [INFO] -------- World Settings For [DIM1] --------
+2014-03-27 12:39:29 [INFO] Chunks to Grow per Tick: 650
+2014-03-27 12:39:29 [INFO] Experience Merge Radius: 3.0
+2014-03-27 12:39:29 [INFO] Item Merge Radius: 2.5
+2014-03-27 12:39:29 [INFO] Anti X-Ray: false
+2014-03-27 12:39:29 [INFO] 	Engine Mode: 1
+2014-03-27 12:39:29 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-03-27 12:39:29 [INFO] Mob Spawn Range: 4
+2014-03-27 12:39:29 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-03-27 12:39:29 [INFO] Random Lighting Updates: false
+2014-03-27 12:39:29 [INFO] View Distance: 10
+2014-03-27 12:39:29 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-03-27 12:39:29 [INFO] Cactus Growth Modifier: 100%
+2014-03-27 12:39:29 [INFO] Cane Growth Modifier: 100%
+2014-03-27 12:39:29 [INFO] Melon Growth Modifier: 100%
+2014-03-27 12:39:29 [INFO] Mushroom Growth Modifier: 100%
+2014-03-27 12:39:29 [INFO] Pumpkin Growth Modifier: 100%
+2014-03-27 12:39:29 [INFO] Sapling Growth Modifier: 100%
+2014-03-27 12:39:29 [INFO] Wheat Growth Modifier: 100%
+2014-03-27 12:39:29 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-03-27 12:39:29 [INFO] -------- World Settings For [DIM-1] --------
+2014-03-27 12:39:29 [INFO] Chunks to Grow per Tick: 650
+2014-03-27 12:39:29 [INFO] Experience Merge Radius: 3.0
+2014-03-27 12:39:29 [INFO] Item Merge Radius: 2.5
+2014-03-27 12:39:29 [INFO] Anti X-Ray: false
+2014-03-27 12:39:29 [INFO] 	Engine Mode: 1
+2014-03-27 12:39:29 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-03-27 12:39:29 [INFO] Mob Spawn Range: 4
+2014-03-27 12:39:29 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-03-27 12:39:29 [INFO] Random Lighting Updates: false
+2014-03-27 12:39:29 [INFO] View Distance: 10
+2014-03-27 12:39:29 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-03-27 12:39:29 [INFO] Cactus Growth Modifier: 100%
+2014-03-27 12:39:29 [INFO] Cane Growth Modifier: 100%
+2014-03-27 12:39:29 [INFO] Melon Growth Modifier: 100%
+2014-03-27 12:39:29 [INFO] Mushroom Growth Modifier: 100%
+2014-03-27 12:39:29 [INFO] Pumpkin Growth Modifier: 100%
+2014-03-27 12:39:29 [INFO] Sapling Growth Modifier: 100%
+2014-03-27 12:39:29 [INFO] Wheat Growth Modifier: 100%
+2014-03-27 12:39:29 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-03-27 12:39:29 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 3064805729691644084)
+2014-03-27 12:39:30 [INFO] Preparing spawn area: 28%
+2014-03-27 12:39:31 [INFO] Preparing spawn area: 95%
+2014-03-27 12:39:31 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 3064805729691644084)
+2014-03-27 12:39:32 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 3064805729691644084)
+2014-03-27 12:39:33 [INFO] Preparing spawn area: 73%
+2014-03-27 12:39:33 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-03-27 12:39:33 [INFO] Done (5.884s)! For help, type "help" or "?"
+2014-03-27 12:39:34 [INFO] Registered command forge with permission node net.minecraftforge.server.command.ForgeCommand
+2014-03-27 12:39:34 [INFO] Registered command LMMtest with permission node LMM_EntityMode_Test
+2014-03-27 12:39:44 [INFO] CONSOLE: Stopping the server..[m
+2014-03-27 12:39:44 [INFO] Stopping server
+2014-03-27 12:39:44 [INFO] Saving players
+2014-03-27 12:39:44 [INFO] Saving worlds
+2014-03-27 12:39:44 [INFO] Saving chunks for level 'world'/Overworld
+2014-03-27 12:39:44 [WARNING] DSCT: socket closed
+2014-03-27 12:39:44 [INFO] Closing listening thread
+2014-03-27 12:39:45 [INFO] Saving chunks for level 'DIM-1'/Nether
+2014-03-27 12:40:25 [INFO] Starting minecraft server version 1.6.2
+2014-03-27 12:40:25 [INFO] MinecraftForge v
+2014-03-27 12:40:25 [INFO] 9.10.1.871
+2014-03-27 12:40:25 [INFO]  Initialized
+
+2014-03-27 12:40:26 [INFO] Replaced 101 ore recipies
+2014-03-27 12:40:30 [INFO] Loading properties
+2014-03-27 12:40:30 [INFO] Default game type: SURVIVAL
+2014-03-27 12:40:30 [INFO] This server is running MCPC+ version git-MCPC-Plus-jenkins-MCPC-Plus-97 (MC: 1.6.2) (Implementing API version 1.6.2-R1.1-SNAPSHOT)
+2014-03-27 12:40:30 [SEVERE] This version of MCPC+ handles chunk loading better if load-chunk-on-request is set to false. Please consider changing this value in your bukkit.yml
+2014-03-27 12:40:30 [INFO] Generating keypair
+2014-03-27 12:40:33 [INFO] Starting Minecraft server on *:25565
+2014-03-27 12:40:33 [INFO] MMMLib-Server
+2014-03-27 12:40:33 [INFO] MMMLib-Forge
+2014-03-27 12:40:33 [INFO] MMMLib-getMinecraftFile-Exception.
+2014-03-27 12:40:33 [INFO] MMMLib-getMinecraftFile-Exception.
+2014-03-27 12:40:33 [INFO] MMMLib-getMinecraftFile-file:mcpc-plus-1.6.2-R1.1-forge871-B97.jar
+2014-03-27 12:40:33 [INFO] MMMLib-getMods-Directory:D:\Servers\MC_1.6.2\.\mods
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile:[MMMLib]:D:\Servers\MC_1.6.2\.\mods
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile-get:2.
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile-file:MMMLib-1_6_2-6.zip
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile-files:1
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile:[MMMLib]:D:\Servers\MC_1.6.2\.\mods
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile-get:2.
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile-files:1
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile:[littleMaidMob]:D:\Servers\MC_1.6.2\.\mods
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile-get:2.
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile-file:littleMaidMob-1_6_2-6.zip
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile-files:1
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile:[Stabilizer]:D:\Servers\MC_1.6.2\.\mods
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile-get:2.
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile-files:0
+2014-03-27 12:40:33 [INFO] MMMLib-RegisterEntity ID:3 / littleMaidMob-0 : LittleMaid
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile:[EntityMode]:D:\Servers\MC_1.6.2\.\mods
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile-get:2.
+2014-03-27 12:40:33 [INFO] MMMLib-getModFile-files:0
+2014-03-27 12:40:33 [INFO] MMMLib-loadTexturePacks.
+2014-03-27 12:40:33 [INFO] MMMLib-getTexture[MMMLib:/mob/ModelMulti/].
+2014-03-27 12:40:33 [INFO] MMMLib-addTextureJar-zip.
+2014-03-27 12:40:37 [INFO] MMMLib-getTexture-append-jar-done.
+2014-03-27 12:40:37 [INFO] MMMLib-getTexture[MMMLib:/mob/littleMaid/].
+2014-03-27 12:40:37 [INFO] MMMLib-addTextureJar-zip.
+2014-03-27 12:40:39 [INFO] MMMLib-getTexture-append-jar-done.
+2014-03-27 12:40:39 [INFO] MMMLib-getTexture[MMMLib:/assets/minecraft/textures/entity/ModelMulti/].
+2014-03-27 12:40:39 [INFO] MMMLib-addTextureJar-zip.
+2014-03-27 12:40:41 [INFO] MMMLib-getTexture-append-jar-done.
+2014-03-27 12:40:41 [INFO] MMMLib-getTexture[MMMLib:/assets/minecraft/textures/entity/littleMaid/].
+2014-03-27 12:40:41 [INFO] MMMLib-addTextureJar-zip.
+2014-03-27 12:40:44 [INFO] MMMLib-getTexture-append-jar-done.
+2014-03-27 12:40:44 [INFO] MMMLib-getTexture[littleMaidMob:/mob/littleMaid/].
+2014-03-27 12:40:44 [INFO] MMMLib-addTextureJar-zip.
+2014-03-27 12:40:47 [INFO] MMMLib-getTexture-append-jar-done.
+2014-03-27 12:40:47 [INFO] MMMLib-getTexture[littleMaidMob:/assets/minecraft/textures/entity/littleMaid/].
+2014-03-27 12:40:47 [INFO] MMMLib-addTextureJar-zip.
+2014-03-27 12:40:50 [INFO] MMMLib-getTexture-append-jar-done.
+2014-03-27 12:40:50 [INFO] MMMLib-getTexture[MMMLib:/mob/ModelMulti/].
+2014-03-27 12:40:50 [INFO] MMMLib-getModelClass-Stef:MMM_ModelMulti_Stef
+2014-03-27 12:40:50 [INFO] MMMLib-getModelClass-Steve:MMM_ModelMulti_Steve
+2014-03-27 12:40:50 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:50 [INFO] MMMLib-getModelClass-AC:MMM_ModelLittleMaid_AC
+2014-03-27 12:40:50 [INFO] MMMLib-getModelClass-Archetype:MMM_ModelLittleMaid_Archetype
+2014-03-27 12:40:51 [INFO] MMMLib-getModelClass-Aug:MMM_ModelLittleMaid_Aug
+2014-03-27 12:40:51 [INFO] MMMLib-getModelClass-Orign:MMM_ModelLittleMaid_Orign
+2014-03-27 12:40:51 [INFO] MMMLib-getModelClass-RX0:MMM_ModelLittleMaid_RX0
+2014-03-27 12:40:51 [INFO] MMMLib-getModelClass-SR2:MMM_ModelLittleMaid_SR2
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTextureName-append-texturePack-ALTERNATIVE
+2014-03-27 12:40:51 [INFO] MMMLib-getTextureName-append-texturePack-default
+2014-03-27 12:40:51 [INFO] MMMLib-getTextureName-append-texturePack-MMM_Aug
+2014-03-27 12:40:51 [INFO] MMMLib-getTextureName-append-texturePack-MMM_SR2
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture[MMMLib:/mob/littleMaid/].
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture[MMMLib:/assets/minecraft/textures/entity/ModelMulti/].
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture[MMMLib:/assets/minecraft/textures/entity/littleMaid/].
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-MMMLib-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture[littleMaidMob:/mob/littleMaid/].
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:40:51 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:40:52 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:40:52 [INFO] MMMLib-getTexture[littleMaidMob:/assets/minecraft/textures/entity/littleMaid/].
+2014-03-27 12:40:52 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:40:52 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:40:52 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:40:52 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:40:52 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:40:52 [INFO] MMMLib-getTexture-append-littleMaidMob-1_6_2-6.zip-done.
+2014-03-27 12:40:52 [INFO] MMMLib-Loaded Texture Lists.(6)
+2014-03-27 12:40:52 [INFO] MMMLib-texture: ALTERNATIVE_Orign(ALTERNATIVE) - hasModel:true
+2014-03-27 12:40:52 [INFO] MMMLib-texture: default_Orign(default) - hasModel:true
+2014-03-27 12:40:52 [INFO] MMMLib-texture: MMM_Aug(MMM_Aug) - hasModel:true
+2014-03-27 12:40:52 [INFO] MMMLib-texture: MMM_SR2(MMM_SR2) - hasModel:true
+2014-03-27 12:40:52 [INFO] MMMLib-texture: Crafter_Steve() - hasModel:true
+2014-03-27 12:40:52 [INFO] MMMLib-texture: Crafter_Stef() - hasModel:true
+2014-03-27 12:40:52 [INFO] MMMLib-Rebuild Texture Lists.(6)
+2014-03-27 12:40:52 [INFO] MMMLib-texture: ALTERNATIVE_Orign(ALTERNATIVE) - hasModel:true
+2014-03-27 12:40:52 [INFO] MMMLib-texture: default_Orign(default) - hasModel:true
+2014-03-27 12:40:52 [INFO] MMMLib-texture: MMM_Aug(MMM_Aug) - hasModel:true
+2014-03-27 12:40:52 [INFO] MMMLib-texture: MMM_SR2(MMM_SR2) - hasModel:true
+2014-03-27 12:40:52 [INFO] MMMLib-texture: Crafter_Steve() - hasModel:true
+2014-03-27 12:40:52 [INFO] MMMLib-texture: Crafter_Stef() - hasModel:true
+2014-03-27 12:40:52 [INFO] MMMLib-appendDefaultTexture:EntityLivingBase(default_Orign)
+2014-03-27 12:40:52 [INFO] MMMLib-appendDefaultTexture:LMM_EntityLittleMaid(default_Orign)
+2014-03-27 12:40:54 [INFO] MMMLib-getEntityModeClass-fail: LMM_EntityModeManager
+2014-03-27 12:40:54 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Archer
+2014-03-27 12:40:54 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Basic
+2014-03-27 12:40:54 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_BookDecorder
+2014-03-27 12:40:54 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Cooking
+2014-03-27 12:40:54 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Fencer
+2014-03-27 12:40:54 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Healer
+2014-03-27 12:40:54 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Pharmacist
+2014-03-27 12:40:54 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Playing
+2014-03-27 12:40:54 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Ripper
+2014-03-27 12:40:54 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Test
+2014-03-27 12:40:54 [INFO] MMMLib-getEntityModeClass-done: LMM_EntityMode_Torcher
+2014-03-27 12:40:54 [INFO] littleMaidMob-Loaded Mode lists(11)
+2014-03-27 12:40:54 [INFO] littleMaidMob-0900 : LMM_EntityMode_Playing
+2014-03-27 12:40:54 [INFO] littleMaidMob-3000 : LMM_EntityMode_Fencer
+2014-03-27 12:40:54 [INFO] littleMaidMob-3100 : LMM_EntityMode_Ripper
+2014-03-27 12:40:54 [INFO] littleMaidMob-3200 : LMM_EntityMode_Archer
+2014-03-27 12:40:54 [INFO] littleMaidMob-3300 : LMM_EntityMode_Healer
+2014-03-27 12:40:54 [INFO] littleMaidMob-6000 : LMM_EntityMode_Cooking
+2014-03-27 12:40:54 [INFO] littleMaidMob-6100 : LMM_EntityMode_Pharmacist
+2014-03-27 12:40:54 [INFO] littleMaidMob-6200 : LMM_EntityMode_Torcher
+2014-03-27 12:40:54 [INFO] littleMaidMob-8000 : LMM_EntityMode_BookDecorder
+2014-03-27 12:40:54 [INFO] littleMaidMob-9000 : LMM_EntityMode_Basic
+2014-03-27 12:40:54 [INFO] littleMaidMob-9900 : LMM_EntityMode_Test
+2014-03-27 12:40:54 [INFO] littleMaidMob-D:\Servers\MC_1.6.2\.\config\littleMaidMob.iff
+2014-03-27 12:40:55 [INFO] Preparing level "world"
+2014-03-27 12:40:55 [INFO] Registered command debug with permission node vanilla.command.debug
+2014-03-27 12:40:55 [INFO] Registered command spreadplayers with permission node vanilla.command.spreadplayers
+2014-03-27 12:40:55 [INFO] Registered command playsound with permission node vanilla.command.playsound
+2014-03-27 12:40:55 [INFO] Registered command scoreboard with permission node vanilla.command.scoreboard
+2014-03-27 12:40:55 [INFO] -------- World Settings For [world] --------
+2014-03-27 12:40:55 [INFO] Cactus Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Cane Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Melon Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Mushroom Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Pumpkin Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Sapling Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Wheat Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-03-27 12:40:55 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-03-27 12:40:55 [INFO] Anti X-Ray: false
+2014-03-27 12:40:55 [INFO] 	Engine Mode: 1
+2014-03-27 12:40:55 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-03-27 12:40:55 [INFO] Mob Spawn Range: 4
+2014-03-27 12:40:55 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-03-27 12:40:55 [INFO] Random Lighting Updates: false
+2014-03-27 12:40:55 [INFO] Chunks to Grow per Tick: 650
+2014-03-27 12:40:55 [INFO] Item Merge Radius: 2.5
+2014-03-27 12:40:55 [INFO] View Distance: 10
+2014-03-27 12:40:55 [INFO] Experience Merge Radius: 3.0
+2014-03-27 12:40:55 [INFO] -------- World Settings For [DIM1] --------
+2014-03-27 12:40:55 [INFO] Cactus Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Cane Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Melon Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Mushroom Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Pumpkin Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Sapling Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Wheat Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-03-27 12:40:55 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-03-27 12:40:55 [INFO] Anti X-Ray: false
+2014-03-27 12:40:55 [INFO] 	Engine Mode: 1
+2014-03-27 12:40:55 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-03-27 12:40:55 [INFO] Mob Spawn Range: 4
+2014-03-27 12:40:55 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-03-27 12:40:55 [INFO] Random Lighting Updates: false
+2014-03-27 12:40:55 [INFO] Chunks to Grow per Tick: 650
+2014-03-27 12:40:55 [INFO] Item Merge Radius: 2.5
+2014-03-27 12:40:55 [INFO] View Distance: 10
+2014-03-27 12:40:55 [INFO] Experience Merge Radius: 3.0
+2014-03-27 12:40:55 [INFO] -------- World Settings For [DIM-1] --------
+2014-03-27 12:40:55 [INFO] Cactus Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Cane Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Melon Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Mushroom Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Pumpkin Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Sapling Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Wheat Growth Modifier: 100%
+2014-03-27 12:40:55 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2014-03-27 12:40:55 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2014-03-27 12:40:55 [INFO] Anti X-Ray: false
+2014-03-27 12:40:55 [INFO] 	Engine Mode: 1
+2014-03-27 12:40:55 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2014-03-27 12:40:55 [INFO] Mob Spawn Range: 4
+2014-03-27 12:40:55 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2014-03-27 12:40:55 [INFO] Random Lighting Updates: false
+2014-03-27 12:40:55 [INFO] Chunks to Grow per Tick: 650
+2014-03-27 12:40:55 [INFO] Item Merge Radius: 2.5
+2014-03-27 12:40:55 [INFO] View Distance: 10
+2014-03-27 12:40:55 [INFO] Experience Merge Radius: 3.0
+2014-03-27 12:40:55 [INFO] Preparing start region for level 0 (Dimension: 0, Seed: 3064805729691644084)
+2014-03-27 12:40:56 [INFO] Preparing spawn area: 95%
+2014-03-27 12:40:56 [INFO] Preparing start region for level 1 (Dimension: 1, Seed: 3064805729691644084)
+2014-03-27 12:40:57 [INFO] Preparing start region for level 2 (Dimension: -1, Seed: 3064805729691644084)
+2014-03-27 12:40:57 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-03-27 12:40:57 [INFO] Done (2.849s)! For help, type "help" or "?"
+2014-03-27 12:40:57 [INFO] Registered command forge with permission node net.minecraftforge.server.command.ForgeCommand
+2014-03-27 12:40:57 [INFO] Registered command LMMtest with permission node LMM_EntityMode_Test
+2014-03-27 12:47:34 [INFO] CONSOLE: Opped uoi100[m
+2014-03-27 12:47:36 [INFO] uoi100[/127.0.0.1:5510] logged in with entity id 203 at ([world] -89.5, 65.0, 255.5)
+2014-03-27 12:47:40 [INFO] littleMaidMob-ID:1204, TextureModel:MMM_SR2
+2014-03-27 12:47:40 [INFO] littleMaidMob-Change Dominant.
+2014-03-27 12:47:40 [INFO] MMMLib-request Init Texture: MMM_SR2
+2014-03-27 12:47:40 [INFO] littleMaidMob-init-ID:1204, MMM_SR2:12
+2014-03-27 12:47:40 [INFO] littleMaidMob-changeSize-ID:1204: 0.500000, 1.350000, false
+2014-03-27 12:47:40 [INFO] littleMaidMob-ID:1206, TextureModel:MMM_SR2
+2014-03-27 12:47:40 [INFO] littleMaidMob-Change Dominant.
+2014-03-27 12:47:40 [INFO] MMMLib-request Init Texture: ALTERNATIVE_Orign
+2014-03-27 12:47:40 [INFO] littleMaidMob-init-ID:1206, ALTERNATIVE_Orign:12
+2014-03-27 12:47:40 [INFO] littleMaidMob-changeSize-ID:1206: 0.500000, 1.350000, false
+2014-03-27 12:47:40 [INFO] littleMaidMob-ID:1208, TextureModel:MMM_SR2
+2014-03-27 12:47:40 [INFO] littleMaidMob-Change Dominant.
+2014-03-27 12:47:40 [INFO] MMMLib-request Init Texture: ALTERNATIVE_Orign
+2014-03-27 12:47:40 [INFO] littleMaidMob-init-ID:1208, ALTERNATIVE_Orign:12
+2014-03-27 12:47:40 [INFO] littleMaidMob-changeSize-ID:1208: 0.500000, 1.350000, false
+2014-03-27 12:47:40 [INFO] littleMaidMob-ID:1210, TextureModel:MMM_SR2
+2014-03-27 12:47:40 [INFO] littleMaidMob-Change Dominant.
+2014-03-27 12:47:40 [INFO] MMMLib-request Init Texture: ALTERNATIVE_Orign
+2014-03-27 12:47:40 [INFO] littleMaidMob-init-ID:1210, ALTERNATIVE_Orign:12
+2014-03-27 12:47:40 [INFO] littleMaidMob-changeSize-ID:1210: 0.500000, 1.350000, false
+2014-03-27 12:47:40 [INFO] littleMaidMob-ID:1212, TextureModel:MMM_SR2
+2014-03-27 12:47:40 [INFO] MMMLib-request Init Texture: MMM_SR2
+2014-03-27 12:47:40 [INFO] littleMaidMob-init-ID:1212, MMM_SR2:12
+2014-03-27 12:47:40 [INFO] littleMaidMob-changeSize-ID:1212: 0.500000, 1.350000, false
+2014-03-27 12:47:40 [INFO] littleMaidMob-ID:1214, TextureModel:MMM_SR2
+2014-03-27 12:47:40 [INFO] littleMaidMob-Change Dominant.
+2014-03-27 12:47:40 [INFO] MMMLib-request Init Texture: default_Orign
+2014-03-27 12:47:40 [INFO] littleMaidMob-init-ID:1214, default_Orign:12
+2014-03-27 12:47:40 [INFO] littleMaidMob-changeSize-ID:1214: 0.500000, 1.350000, false
+2014-03-27 12:47:41 [INFO] littleMaidMob-ID:1256, TextureModel:MMM_SR2
+2014-03-27 12:47:41 [INFO] littleMaidMob-Change Dominant.
+2014-03-27 12:47:41 [INFO] littleMaidMob-read.false
+2014-03-27 12:47:41 [INFO] littleMaidMob-changeSize-ID:1256: 0.500000, 1.350000, false
+2014-03-27 12:47:41 [INFO] littleMaidMob-Load ID:1256, MaidMaster:, x:-282.5, y:67.0, z:156.5, 0
+2014-03-27 12:47:41 [INFO] littleMaidMob-ID:1258, TextureModel:MMM_SR2
+2014-03-27 12:47:41 [INFO] littleMaidMob-Change Dominant.
+2014-03-27 12:47:41 [INFO] littleMaidMob-read.false
+2014-03-27 12:47:41 [INFO] littleMaidMob-changeSize-ID:1258: 0.500000, 1.350000, false
+2014-03-27 12:47:41 [INFO] littleMaidMob-Load ID:1258, MaidMaster:, x:-283.5, y:67.0, z:158.5, 0
+2014-03-27 12:47:41 [INFO] littleMaidMob-ID:1260, TextureModel:MMM_SR2
+2014-03-27 12:47:41 [INFO] littleMaidMob-Change Dominant.
+2014-03-27 12:47:41 [INFO] littleMaidMob-read.false
+2014-03-27 12:47:41 [INFO] littleMaidMob-changeSize-ID:1260: 0.500000, 1.350000, false
+2014-03-27 12:47:41 [INFO] littleMaidMob-Load ID:1260, MaidMaster:, x:-286.5, y:68.0, z:158.5, 0
+2014-03-27 12:47:41 [INFO] littleMaidMob-ID:1262, TextureModel:MMM_SR2
+2014-03-27 12:47:41 [INFO] littleMaidMob-Change Dominant.
+2014-03-27 12:47:41 [INFO] littleMaidMob-read.false
+2014-03-27 12:47:41 [INFO] littleMaidMob-changeSize-ID:1262: 0.500000, 1.350000, false
+2014-03-27 12:47:41 [INFO] littleMaidMob-Load ID:1262, MaidMaster:, x:-286.5, y:65.0, z:324.5, 0
+2014-03-27 12:47:41 [INFO] littleMaidMob-ID:1264, TextureModel:MMM_SR2
+2014-03-27 12:47:41 [INFO] littleMaidMob-read.false
+2014-03-27 12:47:41 [INFO] littleMaidMob-changeSize-ID:1264: 0.500000, 1.350000, false
+2014-03-27 12:47:41 [INFO] littleMaidMob-Load ID:1264, MaidMaster:, x:-287.5, y:64.0, z:327.5, 0
+2014-03-27 12:47:41 [INFO] littleMaidMob-ID:1266, TextureModel:MMM_SR2
+2014-03-27 12:47:41 [INFO] littleMaidMob-Change Dominant.
+2014-03-27 12:47:41 [INFO] littleMaidMob-read.false
+2014-03-27 12:47:41 [INFO] littleMaidMob-changeSize-ID:1266: 0.500000, 1.350000, false
+2014-03-27 12:47:41 [INFO] littleMaidMob-Load ID:1266, MaidMaster:, x:-287.5, y:65.0, z:325.5, 0
+2014-03-27 12:47:48 [INFO] uoi100 issued server command: /gamemode 1
+2014-03-27 12:47:48 [INFO] uoi100: Set own game mode to CREATIVE mode[m
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374, TextureModel:MMM_SR2
+2014-03-27 12:48:10 [INFO] MMMLib-request Init Texture: default_Orign
+2014-03-27 12:48:10 [INFO] littleMaidMob-init-ID:1374, default_Orign:12
+2014-03-27 12:48:10 [INFO] littleMaidMob-changeSize-ID:1374: 0.500000, 1.350000, false
+2014-03-27 12:48:10 [INFO] littleMaidMob-id:1374 LivingSound:Server
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(0:0-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-LMM|Upd Srv Call[80:1374].
+2014-03-27 12:48:10 [INFO] MMMLib-MMM|Upd Srv Call[ 2:0].
+2014-03-27 12:48:10 [INFO] MMMLib-SetTexturePackName:0001 - default_Orign
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(0:0-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:1-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:2-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:3-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:4-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:5-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:6-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:7-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:8-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:9-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:10-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:11-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:12-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:13-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:14-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:15-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:16-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:17-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:18-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:19-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:20-0,-1) Update.
+2014-03-27 12:48:10 [INFO] littleMaidMob-ID:1374-Server - Slot(ff:21-0,-1) Update.
+2014-03-27 12:48:15 [INFO] littleMaidMob-id:1374 LivingSound:Server
+2014-03-27 12:48:18 [INFO] uoi100 lost connection: disconnect.quitting
+2014-03-27 12:48:18 [INFO] Connection reset
+2014-03-27 12:48:18 [INFO] §euoi100 left the game.
+2014-03-27 12:48:27 [INFO] littleMaidMob-id:1374 LivingSound:Server
+2014-03-27 12:48:40 [INFO] littleMaidMob-id:1374 LivingSound:Server
+2014-03-27 12:48:50 [INFO] littleMaidMob-id:1374 LivingSound:Server
+2014-03-27 12:49:00 [INFO] littleMaidMob-id:1374 LivingSound:Server
+2014-03-27 12:49:10 [INFO] littleMaidMob-id:1374 LivingSound:Server
+2014-03-27 13:10:44 [INFO] CONSOLE: Stopping the server..[m
+2014-03-27 13:10:44 [INFO] Stopping server
+2014-03-27 13:10:44 [INFO] Saving players
+2014-03-27 13:10:44 [INFO] Saving worlds
+2014-03-27 13:10:44 [WARNING] DSCT: socket closed
+2014-03-27 13:10:44 [INFO] Saving chunks for level 'world'/Overworld
+2014-03-27 13:10:44 [INFO] Closing listening thread
+2014-03-27 13:10:47 [INFO] Saving chunks for level 'DIM-1'/Nether
